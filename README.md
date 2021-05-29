@@ -3,4 +3,5 @@
   <hr>
 Thank you
   <img src = "1. png" atl = "github icon'>
-                             </center>
+  <imgscr="2.png"atl = "githubicon">
+ <img scr ="3 .png" atl = "github icon">
